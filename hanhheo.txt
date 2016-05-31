@@ -18,3 +18,5 @@ content in hanheo.txt modified, "new file hanhp.txt created.".
 Pull after commit modified content in local, content in remote changed.
 --
 Chaging in local to check conflicting
+--
+Recheck conflicting
