@@ -5,3 +5,5 @@ Changing and checking push command.
 => commit before pushing.
 --
 Changing and checking petch/pull command.
+=>  fetch to 
+    full to get the update from remote branch and merge them into local branch.
