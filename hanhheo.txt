@@ -10,8 +10,14 @@ Changing and checking petch/pull command.
 --
 <<<<<<< Updated upstream
 checking conflicting.
+<<<<<<< HEAD
 =======
 Commit a parts of file
 This changing will be used for checking.
 --
 new file hanhp.txt created.
+=======
+New file hanhp.txt created.
+content in hanheo.txt modified, "new file hanhp.txt created.".
+Pull after commit modified content in local, content in remote changed.
+>>>>>>> c796a13ec380ce9b41921d251c7d5623d788f55e
