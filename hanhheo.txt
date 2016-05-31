@@ -8,4 +8,10 @@ Changing and checking petch/pull command.
 =>  fetch to get modification information from remote branch.
     full to get the update from remote branch and merge them into local branch.
 --
+<<<<<<< Updated upstream
 checking conflicting.
+=======
+Commit a parts of file
+This changing will be used for checking.
+
+>>>>>>> Stashed changes
