@@ -13,5 +13,5 @@ checking conflicting.
 =======
 Commit a parts of file
 This changing will be used for checking.
-
->>>>>>> Stashed changes
+--
+new file hanhp.txt created.
