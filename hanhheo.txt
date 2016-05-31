@@ -7,3 +7,5 @@ Changing and checking push command.
 Changing and checking petch/pull command.
 =>  fetch to get modification information from remote branch.
     full to get the update from remote branch and merge them into local branch.
+--
+checking conflicting.
