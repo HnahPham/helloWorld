@@ -20,3 +20,6 @@ Pull after commit modified content in local, content in remote changed.
 Chaging in local to check conflicting
 --
 Recheck conflicting
+
+Best regards,
+Hanh Pham
