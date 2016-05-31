@@ -2,4 +2,6 @@
 This is the first txt file for checking the working of github.
 --
 Changing and checking push command.
-=> coomit before pushing.
+=> commit before pushing.
+--
+Changing and checking petch/pull command.
