@@ -9,3 +9,6 @@ Changing and checking petch/pull command.
     full to get the update from remote branch and merge them into local branch.
 --
 checking conflicting.
+New file hanhp.txt created.
+content in hanheo.txt modified, "new file hanhp.txt created.".
+Pull after commit modified content in local, content in remote changed.
