@@ -22,6 +22,8 @@ Chaging in local to check conflicting
 Recheck conflicting
 --
 In hanh_helloWorld
+--
+Edit from remote
 
 Best regards,
 Hanh Pham
