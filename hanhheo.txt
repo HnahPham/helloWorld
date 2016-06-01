@@ -24,6 +24,10 @@ Recheck conflicting
 In hanh_helloWorld.
 --
 Nghia khung
+=======
+In hanh_helloWorld
+--
+Edit from remote
 
 Best regards,
 Hanh Pham
