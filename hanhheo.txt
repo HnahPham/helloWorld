@@ -21,6 +21,8 @@ Chaging in local to check conflicting
 --
 Recheck conflicting
 --
+git_practice, edit in the middle.
+--
 In hanh_helloWorld.
 --
 Nghia khung
