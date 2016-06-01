@@ -30,6 +30,8 @@ In hanh_helloWorld
 Edit from remote
 --
 Edit from local
+=======
+In git_practice branch.
 
 Best regards,
 Hanh Pham
