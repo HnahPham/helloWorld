@@ -22,14 +22,6 @@ Chaging in local to check conflicting
 Recheck conflicting
 --
 In hanh_helloWorld.
---
-Nghia khung
-=======
-In hanh_helloWorld
---
-Edit from remote
---
-Edit from local
 
 Best regards,
 Hanh Pham
